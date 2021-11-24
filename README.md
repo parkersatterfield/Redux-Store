@@ -9,7 +9,7 @@
 
 ## Links
 Github: https://github.com/parkersatterfield/Redux-Store
-Live: ....................
+Live: https://redux-retail.herokuapp.com/
 
 ## Table of Contents 
 
