@@ -1,6 +1,6 @@
 # **Redux Store**
 
-### *Given a functioning e-commerce platform, students were asked to refactor the existing code to use Redux. This was accomplished by .........* 
+### *Given a functioning e-commerce platform, students were asked to refactor the existing code to use Redux. This was accomplished by removing global state into a store. This involved deleting the client-side global state util script and adding a store.js file in it's place. Everywhere a global state was called, the code was refactored to fetch data from the store instead.* 
 
 ## [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
 
